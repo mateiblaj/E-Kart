@@ -1,0 +1,3 @@
+APPM_BOA2.c:41:6:APPM_BOA2_step	32	static
+APPM_BOA2.c:276:6:APPM_BOA2_initialize	4	static
+APPM_BOA2.c:288:6:APPM_BOA2_terminate	4	static
